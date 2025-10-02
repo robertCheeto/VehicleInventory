@@ -7,13 +7,14 @@ public class Vehicle {
     private int odometerReading;
     private double price;
 
-    public Vehicle() {
+    public Vehicle(long vehicleID, String makeModel, String color, int odometerReading, double price) {
         this.vehicleID = 0;
         this.makeModel = "";
         this.color = "";
         this.odometerReading = 0;
         this.price = 0;
-    } // parameterless Vehicle Constructor
+    } // Vehicle Constructor
+    // parameterless constructor must be made for when user inputs are taken in
 
     public long getVehicleID() {
         return vehicleID;
