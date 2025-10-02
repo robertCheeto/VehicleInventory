@@ -4,17 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b41d79d0-9451-49ae-be7b-0d0a6992a259" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="b41d79d0-9451-49ae-be7b-0d0a6992a259" name="Changes" comment="* created Vehicle class and created Vehicle constructor&#10;* created getters/setters for each of the car's properties">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "robertCheeto"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/robertCheeto/VehicleInventory",
+    "accountId": "9a28861d-3046-441c-b3b9-71f0fc00ab2f"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -27,8 +47,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Student/pluralsight/workbook-2/VehicleInventory/src/main/java/com/pluralsight/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,6 +62,28 @@
       <option name="presentableId" value="Default" />
       <updated>1759428458619</updated>
     </task>
+    <task id="LOCAL-00001" summary="* first commit, initialized main()">
+      <option name="closed" value="true" />
+      <created>1759428515008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759428515008</updated>
+    </task>
+    <task id="LOCAL-00002" summary="* created Vehicle class and created Vehicle constructor&#10;* created getters/setters for each of the car's properties">
+      <option name="closed" value="true" />
+      <created>1759428822100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759428822100</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="* first commit, initialized main()" />
+    <MESSAGE value="* created Vehicle class and created Vehicle constructor&#10;* created getters/setters for each of the car's properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="* created Vehicle class and created Vehicle constructor&#10;* created getters/setters for each of the car's properties" />
   </component>
 </project>
