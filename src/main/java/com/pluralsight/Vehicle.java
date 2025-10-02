@@ -5,7 +5,7 @@ public class Vehicle {
     private String makeModel;
     private String color;
     private int odometerReading;
-    private float price;
+    private double price;
 
     public Vehicle() {
         this.vehicleID = 0;
@@ -47,7 +47,7 @@ public class Vehicle {
         this.odometerReading = odometerReading;
     }
 
-    public float getPrice() {
+    public double getPrice() {
         return price;
     }
 
